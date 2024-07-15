@@ -27,5 +27,5 @@ Allows management of system processes (e.g., killing processes, querying process
 
 ## Output
 
-![Telemetry](telemetry_image.png)
+![Telemetry](Figure_2.png)
 
