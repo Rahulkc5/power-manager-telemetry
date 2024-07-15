@@ -29,3 +29,4 @@ Allows management of system processes (e.g., killing processes, querying process
 
 ![Output](Figure_2.png)
 
+![Output](Figure_1.png)
