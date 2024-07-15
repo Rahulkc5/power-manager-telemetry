@@ -20,4 +20,12 @@ This repository contains a Python script `plot_power_data.py` that reads telemet
 
 - Python 3.x
 - `matplotlib` Python library
+- 'psutil' Python System and Process Utilities: a cross-platform library for retrieving information on running processes and system utilization (CPU, memory, disks, network, sensors).
+It provides APIs for CPU and memory usage, disk I/O, network information, and more.
+Retrieves sensor data such as temperature and fan speed.
+Allows management of system processes (e.g., killing processes, querying process details).
+
+## Output
+
+![Telemetry](telemetry_image.png)
 
