@@ -8,7 +8,7 @@ In the era of 5G and edge computing, understanding and managing power consumptio
 
 ## Overview
 
-This repository contains a Python script `plot_data.py` that reads telemetry data from `utilization_log.json` and plots the power consumption of CPU, memory, and network interface (NIC). This is part of a larger project focusing on achieving net-zero power consumption and optimizing power usage in computing environments.
+This repository contains a Python script `plot_power_data.py` that reads telemetry data from `utilization_log.json` and plots the power consumption of CPU, memory, and network interface (NIC). This is part of a larger project focusing on achieving net-zero power consumption and optimizing power usage in computing environments.
 
 ## Features
 
